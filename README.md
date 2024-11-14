@@ -1,5 +1,8 @@
-# Table of Contents
+<p align="center">
+  <img src="cover.png" alt="Cover Image" width="50%">
+</p>
 
+# Table of Contents
 - [Level 01](#level-01)
   - [Major Key Secondary Dominant](#major-key-secondary-dominant)
     - [The Formula](#the-formula)
