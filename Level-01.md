@@ -54,11 +54,11 @@ Secondary dominant mimics the P5 resolution; instead, the resolution is a diaton
 
 ### Example in Key of C
 
-| Primary dominant | Chord Scale | Notes (scale degree) |
+| Primary dominant | Chord Scale | Notes |
 |------------------|-------------|----------------------|
 | G7               | Mixolydian  | G, A, B, C, D, E, F, G |
 
-| Secondary dominant | Chord Scale       | Notes (scale degree) |
+| Secondary dominant | Chord Scale       | Notes |
 |--------------------|-------------------|----------------------|
 | C7                 | Mixolydian        | C, D, E, F, G, A, Bb, C |
 | D7                 | Mixolydian        | D, E, F#, G, A, B, C, D |
