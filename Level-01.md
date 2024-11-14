@@ -19,7 +19,7 @@ Secondary dominant mimics the P5 resolution; instead, the resolution is a diaton
 | V7/IV              | IVmaj7                       |
 | V7/V               | V7                           |
 | V7/VI              | VI-7                         |
-| ~~V7/VII~~         | VII-7b5? (The chord lacks a P5 and is not considered a stable chord that can be tonicized) |
+| ~~V7/VII~~         | VII-7b5?<br>(The chord lacks a P5 and is not considered a stable chord that can be tonicized) |
 
 ### Example in Key of C
 
@@ -34,7 +34,7 @@ Secondary dominant mimics the P5 resolution; instead, the resolution is a diaton
 | C7                 | Fmaj7                        |
 | D7                 | G7                           |
 | E7                 | A-7                          |
-| ~~V7/VII~~         | B-7b5? (This chord lacks a P5 and is not considered a stable chord that can be tonicized) |
+| ~~V7/VII~~         | B-7b5?<br>(This chord lacks a P5 and is not considered a stable chord that can be tonicized) |
 
 ## Major Key Secondary Dominant Chord Scale
 
