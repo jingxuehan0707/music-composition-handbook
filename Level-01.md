@@ -68,6 +68,10 @@ Secondary dominants mimic the P5 resolution; instead, the resolution is a diaton
 
 ## Related II Chords
 
+II - V - I is very common jazz cadence, indicating strong resolution to tonic chord via cycle 5th movement.
+
+The II-V-I relationship can also be applied to secondary dominants. 
+
 ### Example in Key of C
 
 | Related II                | Secondary dominant | Target chord  |
