@@ -82,7 +82,7 @@ Secondary dominants mimic the P5 resolution; instead, the resolution is a diaton
 
 A common harmonic expectation follows V7 resolves to the I chord.
 
-We define deceptive resolution
+We define deceptive resolution when V7 resolves to other chords rather than I or I- chord.
 
 ### The Formula
 
