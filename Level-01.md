@@ -4,13 +4,13 @@
 
 ### The Formula
 
-As we know, V7 chord resolves to I chord, which is P5 resolution.
+As we know, the V7 chord resolves to the I chord, which is a P5 resolution.
 
 | Primary dominant | Resolution |
 |------------------|------------|
 | V7               | Imaj7      |
 
-Secondary dominant mimics the P5 resolution; instead, the resolution is a diatonic chord of the major key.
+Secondary dominants mimic the P5 resolution; instead, the resolution is a diatonic chord of the major key.
 
 | Secondary dominant | Diatonic Chord of Resolution |
 |--------------------|------------------------------|
@@ -77,3 +77,44 @@ Secondary dominant mimics the P5 resolution; instead, the resolution is a diaton
 | Non-diatonic<br>G-7       | V7/IV<br>C7        | IVmaj7<br>Fmaj7 |
 | VI-7<br>A-7               | V7/V<br>D7         | V7<br>G7      |
 | VII-7b5<br>B-7b5          | V7/VI<br>E7        | VI-7<br>A-7   |
+
+## Deceptive Resolution of Primary Dominant
+
+A common harmonic expectation follows V7 resolves to the I chord.
+
+We define deceptive resolution
+
+### The Formula
+
+| Primary Dominant | Deceptive Resolution |
+|------------------|----------------------|
+| V7               | III-7                |
+| V7               | VI-7                 |
+
+### Example in Key of C
+
+| Primary Dominant | Deceptive Resolution |
+|------------------|----------------------|
+| G7               | E-7                  |
+| G7               | A-7                  |
+
+## Deceptive Resolution of Secondary Dominants
+
+Deceptive resolution of secondary dominants must follow cycle 5th movement.
+
+### The Formula
+
+| Secondary Dominant | Deceptive Resolution |
+|--------------------|----------------------|
+| V7/II              | V7/V                 |
+| V7/VI              | V7/II                |
+| V7/V               | Related II of V7/IV  |
+
+### Example in Key of C
+
+| Secondary Dominant | Deceptive Resolution |
+|--------------------|----------------------|
+| A7                 | D7                   |
+| E7                 | A7                   |
+| D7                 | G-7                  |
+
