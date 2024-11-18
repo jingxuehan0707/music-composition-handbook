@@ -114,7 +114,7 @@ Deceptive resolution of secondary dominants must follow cycle 5th movement.
 | V7/VI              | V7/II                |
 | V7/V               | Related II of V7/IV  |
 
-### Example in Key of C Major
+### Example in C Major
 
 | Secondary Dominant | Deceptive Resolution |
 |--------------------|----------------------|
@@ -168,3 +168,35 @@ Here is a chart of the Roman numerals for the triads, 6th and 7th chords broken 
 | V-, V, V-7, V7               |
 | bVI, VI°, bVI6, bVImaj7, VI-7b5 |
 | bVII, VII°, bVII7, VII°7     |
+
+### Harmonic Function in Minor Key
+
+| Harmonic Function | Chords in A Minor |
+|-------------------|-------------------|
+| Tonic Minor (TM)  | I-7, I-maj7, I-6, bIIImaj7, bIII+maj7<br>A-7, A-maj7, A-6, Cmaj7, C+maj7 |
+| Sub-dominant Minor (SDM)<br>With Sb6 | II-7b5, IV-7, IV-6, bVImaj7, bVII7<br>B-7b5, D-7, D-6, Fmaj7, G7 |
+| Modal Sub-dominant (MSD)<br>With S6 | II-7, IV7, bIImaj7<br>B-7, D7, Bbmaj7 |
+| Dominant (D)      | V7, VII°7<br>E7, G#°7 |
+| Modal Dominant (MD) | V-7<br>E-7 |
+
+### Line Cliche Examples
+
+| Songs              | Progressions                        |
+|--------------------|-------------------------------------|
+| James Bond Theme   | E-, E-+5, E-6, E-+5                 |
+| My Funny Valentine | C-, C-maj7, C-7, C-6                |
+| Time in a Bottle   | D-, D-maj7/C#, D-7/C, D-6/B         |
+| Eleanor Rigby      | E-7, E-6, C/E, E-                   |
+
+### Secondary Dominants in Minor Key
+
+| Tonic      | Related II                  | Secondary Dominant | Target Chord | Chord Scale                        |
+|------------|-----------------------------|--------------------|--------------|------------------------------------|
+| I-7<br>D-7 | Non-diatonic<br>A-7b5(11, b13) | V7/IV<br>D7b9      | IV-7<br>G-7  | Mixolydian b9, #9, b13<br>1, Tb9, T#9, 3, S4, 5, Tb13, b7, 1 |
+| I-7<br>D-7 | VI-7b5<br>B-7b5              | V7/V<br>E7b9       | V7<br>A7b9   | Mixolydian b9, #9, b13<br>1, Tb9, T#9, 3, S4, 5, Tb13, b7, 1 |
+| I-7<br>D-7 | Non-diatonic<br>C-7          | V7/bVI<br>F7       | bVImaj7<br>Bbmaj7 | Mixolydian<br>1, T9, 3, S4, 5, T13, b7, 1 |
+| I-7<br>D-7 |                             | V7/II<br>B7b9      | II-7b5<br>E-7b5 | Mixolydian b9, #9, b13<br>1, Tb9, T#9, 3, S4, 5, Tb13, b7, 1 |
+| I-7<br>D-7 |                             | V7/bIII<br>C7b9    | bIIImaj7<br>Fmaj7 | Mixolydian b9<br>1, Tb9, 3, S4, 5, T13, b7, 1 |
+
+
+
