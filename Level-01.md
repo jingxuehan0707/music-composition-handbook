@@ -198,5 +198,35 @@ Here is a chart of the Roman numerals for the triads, 6th and 7th chords broken 
 | I-7<br>D-7 |                             | V7/II<br>B7b9      | II-7b5<br>E-7b5 | Mixolydian b9, #9, b13<br>1, Tb9, T#9, 3, S4, 5, Tb13, b7, 1 |
 | I-7<br>D-7 |                             | V7/bIII<br>C7b9    | bIIImaj7<br>Fmaj7 | Mixolydian b9<br>1, Tb9, 3, S4, 5, T13, b7, 1 |
 
+## Modal Interchange
+
+We borrow chords from parallel scale, with same harmonic function.
+
+### Modal Interchange Chords
+
+| Roman Numeral          | Harmonic Function** | Source        |
+|------------------------|---------------------|---------------|
+| I-7                    | TM                  | Dorian        |
+| I-maj7                 | TM                  | Melodic Minor |
+| I-6                    | TM                  | Melodic Minor |
+| bIIImaj7               | TM                  | Dorian        |
+| II-7b5                 | SDM                 | Natural Minor |
+| IV-7                   | SDM                 | Natural Minor |
+| bVImaj7                | SDM                 | Natural Minor |
+| bVII7                  | SDM                 | Natural Minor |
+| IV7                    | SDM                 | Melodic Minor |
+| bIImaj7                | SDM                 | Phrygian      |
+| V-7                    | MC                  | Mixolydian    |
+| bVIImaj7               | MC                  | Mixolydian    |
+| V7 with minor tensions | D                   | Harmonic Minor |
+
+### Deceptive Resolution to Maj7 Modal Interchange Chords
+
+The V7 can deceptively resolve to:
+
+* bIIImaj7(13)
+* bVImaj7
+* bIImaj7(#11)
+* bVIImaj7(9,13)
 
 
