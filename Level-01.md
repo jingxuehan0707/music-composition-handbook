@@ -229,4 +229,11 @@ The V7 can deceptively resolve to:
 * bIImaj7(#11)
 * bVIImaj7(9,13)
 
+## Modulation
+
+* Relative major and minor modulation, via V7/VI chord.
+* Pivot modulation with secondary dominant.
+* Pivot modulation with modal interchange.
+* Pivot modulation with maj7 modal interchange, as new I chord.
+
 
