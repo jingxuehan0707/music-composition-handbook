@@ -236,4 +236,49 @@ The V7 can deceptively resolve to:
 * Pivot modulation with modal interchange.
 * Pivot modulation with maj7 modal interchange, as new I chord.
 
+## Hybrid Chords
+
+### IV Hybrid Chords
+
+The procedure is to stack the lydian scales in 3rd.
+
+For example, the F lydian scale, we have:
+
+| Scale degree | 1 | 3 | 5 | 7 | 9 | #11 | 13 |
+|--------------|---|---|---|---|---|-----|----|
+| Notes        | F | A | C | E | G | B   | D  |
+
+We can build three triads, and two 7th chords from the 5th, 9th, and 7th. These are all hybrid chords of IV.
+
+* C/F
+* E-/F
+* G/F
+* Cmaj7/F
+* E-7/F
+
+### V Hybrid Chords
+
+We can apply the same procedure to the V chord as well. We will also have five hybrid chords.
+
+For example, the G mixolydian scale, we have:
+
+| Scale degree | 1 | 3 | 5 | b7 | 9 | 11 | 13 |
+|--------------|---|---|---|----|---|----|----|
+| Notes        | G | B | D | F  | A | C  | E  |
+
+We can build three triads, and two 7th chords from the 5th, 9th, and 7th. These are all hybrid chords of V.
+
+* D-/G
+* F/G
+* A-/G
+* D-7/G
+* Fmaj7/G
+
+## Guide Tone
+
+The 3rd and 7th of a chord are guide tones. We can write a guide tone line given a chord progression by voice leading the guide tones.
+
+
+
+
 
