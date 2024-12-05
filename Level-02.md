@@ -121,6 +121,43 @@ There are three ways to add extended SubVs:
 ![](./img/lv-02/extended-dominants-interpolate-related-II.png)
 
 
+## Augmented 6th Chords
 
+### Neapolitan 6th Chord
 
+It is simply a major triad built on the lowered second degree of a minor or major scale.
 
+It is commonly used in first inversion. The common progressions are as follows.
+
+* Db/F - G7 - C-
+* Db/F - C-/G - G7 - C-
+
+### Italian Augmented 6th Chord
+
+The Italian 6th (It+6) is derived from the IV chord in first inversion.
+
+In C major, follow this procedure to derive the Italian Augmented 6th Chord:
+* Identify the first inversion of IV, F/A
+* Descend the bass a minor 2nd, from A to Ab
+* Ascend the root a half step, from F to F#
+* We have the new chord that consists of Ab, C, F#.
+
+### German Augmented 6th Chord
+
+The German augmented 6th (Ger+6) chord in the minor key finds its start point in the IV-7 chord in first inversion.
+> Formula: raise the root.
+
+The German augmented 6th (Ger+6) chord in the major key finds its start point in the II-7 chord in second inversion.
+> Formula: Lower the bass, and raise the root.
+
+### French Augmented 6th Chord
+
+The French 6th (Fr+6) begins with the II-7 chord in second inversion.
+
+> Formula: Lower the bass, and raise the root.
+
+Tchaikovsky introduced the augmented 6th chord as a dominant 7th chord in 2nd inversion with a lowered bass note.
+
+The result is a French augmented 6th chord that can conceivably function as a colorful alternative to the primary dominant as well as the other four secondary dominants.
+
+> Formula: Lower the bass.
