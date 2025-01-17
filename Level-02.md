@@ -161,3 +161,18 @@ Tchaikovsky introduced the augmented 6th chord as a dominant 7th chord in 2nd in
 The result is a French augmented 6th chord that can conceivably function as a colorful alternative to the primary dominant as well as the other four secondary dominants.
 
 > Formula: Lower the bass.
+
+## Diminished 7th Chord
+
+This chord has a completely symmetrical structure. It is constructed of 3rds, but it is the only 7th chord in which all of the 3rds are of the same size—minor 3rds.
+
+The diminished 7th chord can be used in three ways:
+* Secondary Dominant Function: The Ascending Diminished Seventh
+* Descending Chromatic Passing Approach Chord: Passing Diminished
+* Embellishing Chords: Auxiliary Diminished 7th Chords
+
+When used as a secondary dominant function, the chord has a root which is a half step above the target chord.
+
+When used as a passing chord, the most common of these is bIII°7. Less common is bVI°7 which precedes the related II of the V7/IV.
+
+When used as an embellishing chord, these chords are often found in embellishments of the Imaj and V7 chords in popular songs.
