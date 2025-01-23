@@ -176,3 +176,20 @@ When used as a secondary dominant function, the chord has a root which is a half
 When used as a passing chord, the most common of these is bIII°7. Less common is bVI°7 which precedes the related II of the V7/IV.
 
 When used as an embellishing chord, these chords are often found in embellishments of the Imaj and V7 chords in popular songs.
+
+## Non-Chord Tone and Approach Tone
+
+In contemporary music, there are five types of approach tones:
+
+* Passing tone (PT)
+* Neighbor tone (NT)
+* Unprepared approach (UA)
+* Indirect resolution (IR)
+* Double chromatic passing tone (DCPT)
+
+We can harmonize the approach tones in four ways:
+
+* Dominant approach
+* Diminished approach
+* Parallel approach
+* Diatonic approach
