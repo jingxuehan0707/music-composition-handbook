@@ -193,3 +193,31 @@ We can harmonize the approach tones in four ways:
 * Diminished approach
 * Parallel approach
 * Diatonic approach
+
+## Polychords
+
+- **Polychords** are voicings with tensions in the upper structure grouped as triads or 7th chords above the essential chord tones of the lower structure.
+- **Harmonic avoid tones** are omitted from the voicing.
+- The **lower structure** may be in close position or spread.
+- The **upper structure tones** may be close-voiced, inverted, or spread as desired.
+- The **perfect 5th** is often omitted but can be included if it does not interfere with tensions such as ♭13 or ♯11.
+- The **upper and lower structures** should be separated by at least the interval of a third.
+- **Polychord voicings** are expressed as an **upper structure chord symbol** over the **lower structure chord symbol**, separated by a horizontal line.
+
+Memorize the formula below.
+
+| Polychord Formula          | Resulting Chord    | Chord Scale               | Usage                          |
+|----------------------------|--------------------|---------------------------|--------------------------------|
+| <ins>Vmaj</ins><br> Rmaj7  | Maj7(9,13)         | Ionian                    | Any maj chords                 |
+| <ins>Vmaj</ins><br> R6     | Maj7(9,13)         | Ionian                    | Any maj chords                 |
+| <ins>IImaj</ins><br> Rmaj7 | Maj7(9,♯11,13)     | Lydian                    | Any maj chords                 |
+| <ins>V-</ins><br> R-7      | min7(9)            | Dorian or Aeolian         | Often II-                      |
+| <ins>♭VIImaj</ins><br> R-7 | min7(9,11)         | Dorian or Aeolian         | III-7 chord as the related II of V7/II |
+| <ins>VI-</ins><br> R7      | Dom7(13)           | Mixolydian                | Dominant chords with major target |
+| <ins>V-</ins><br> R7       | Dom7(9)            | Mixolydian                | Dominant chords with major target |
+| <ins>♭II-</ins><br> R7     | Dom7(♭9,♭13)       | Mixo (♭9,♯9,♭13) Altered Dominant | Dominant chords with minor target |
+| <ins>♭VImaj</ins><br> R7   | Dom7(♯9,♭13)       | Mixo (♭9,♯9,♭13) Altered Dominant | Dominant chords with minor target |
+| <ins>♭Vmaj</ins><br> R7    | Dom7♭5(♭9)         | Altered Dominant <br> Symmetric Dominant | Any dominant chords            |
+| <ins>VImaj</ins><br> R7    | Dom7(♭9,13)        | Symmetric Dominant        | Any dominant chords            |
+| <ins>IImaj</ins><br> R7    | Dom7(9,♯11,13)     | Lydian ♭7                 | Substitute dominant chords     |
+
