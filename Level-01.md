@@ -122,6 +122,18 @@ Deceptive resolution of secondary dominants must follow cycle 5th movement.
 | E7                 | A7                   |
 | D7                 | G-7                  |
 
+## Standard Deceptive Resolution Summary
+
+After a **final dominant cadence**, the following chords may introduce an **extended phrase ending**:
+
+- **VI-7**  
+- **III-7**  
+- **♯IV-7♭5**  
+- **♭IImaj7**  
+- **♭VImaj7**  
+- **♭IIImaj7**  
+- **♭VIImaj7**
+
 ## Composite Minor
 
 ### Composite Minor Scale
@@ -235,6 +247,9 @@ The V7 can deceptively resolve to:
 * Pivot modulation with secondary dominant.
 * Pivot modulation with modal interchange.
 * Pivot modulation with maj7 modal interchange, as new I chord.
+* Direct modulation in a sharp direction (clockwise on the circle of 5ths) causes an increase in intensity or a brightening.
+* Direct modulation in a flat direction (counter-clockwise on the circle of 5ths) causes a decrease in intensity or a darkening.
+* Transitional modulation uses extended dominant or extended substitute dominant series that will progress smoothly from one key to the other. 
 
 ## Hybrid Chords
 
