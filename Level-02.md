@@ -221,3 +221,185 @@ Memorize the formula below.
 | <ins>VImaj</ins><br> R7    | Dom7(♭9,13)        | Symmetric Dominant        | Any dominant chords            |
 | <ins>IImaj</ins><br> R7    | Dom7(9,♯11,13)     | Lydian ♭7                 | Substitute dominant chords     |
 
+## Minor Key Summary
+
+Harmony in the minor key can be drawn exclusively from one of three source scales:
+
+- **Natural Minor or Aeolian**
+- **Harmonic Minor**
+- **Melodic Minor**
+
+Within each scale, the functions belong to one of three groups:
+
+- **Tonic**
+- **Subdominant**
+- **Dominant (Modal Cadence Chord Group)**
+
+The chord scales for each function are drawn from the natural minor source, or in the case of those chords that contain scale degrees 6 or 7, from the melodic or harmonic minor source.
+
+The three sources combine to create the **composite minor scale**. Within the composite minor scale:
+
+- **Tonic options**: Chords built on **1, ♭3, and 6**.
+- **Subdominant options**: Chords built on **2, 4, and ♭6**.
+- **Dominant and modal cadence chord options**: Chords built on **5, ♭7, and 7**.
+
+Understanding functional groupings allows the composer to create clear functional progressions while taking advantage of the shading that each variant offers.
+
+### Natural Minor Harmony
+
+| Function    | Chord Scale | Tensions            | Harmonic Avoid Notes |
+|------------|------------|---------------------|----------------------|
+| I-         | Aeolian    | T9 and 11          | s♭6                 |
+| II-7♭5     | Locrian    | T9 and ♭13         | s♭2                 |
+| ♭III       | Ionian     | T9 and 13          | s4                  |
+| IV-        | Dorian     | T9, 11, and 13     | -                    |
+| V-         | Phrygian   | T♭9 and ♭13        | -                    |
+| ♭VI        | Lydian     | T9, ♯11, and 13    | -                    |
+| ♭VII       | Mixolydian | T9 and 13          | s4                  |
+
+### Harmonic Minor Harmony
+All other functions derive their chord scales from the natural minor source.
+| Function     | Chord Scale                                      | Tensions                  | Harmonic Avoid Notes   |
+|-------------|--------------------------------------------------|--------------------------|------------------------|
+| I-(Maj7)    | Harmonic minor                                  | T9 and 11               | s♭6                   |
+| ♭III+       | Ionian augmented                               | T9 and 13               | s4 and ♭6             |
+| V7          | Mixolydian                                     | (♭9, ♯9, ♭13)           | s4                    |
+| VIIº7       | Mixolydian (♭9, ♯9, ♭13) from the 3rd degree   | T♭3 and 7               | s♭2 and 4             |
+
+### Melodic Minor Harmony
+
+V7 in the minor key is almost exclusively derived from the harmonic minor source.
+
+| Function    | Chord Scales             | Tensions and Avoid Notes       | Harmonic Avoid Notes   |
+|------------|--------------------------|--------------------------------|------------------------|
+| I-         | Melodic minor            | T9, 11, and 13                | -                      |
+| II-7       | Phrygian natural 13      | T11 and 13                    | -                      |
+| ♭III+      | Lydian augmented         | T9 and ♯11                    | s♭6                   |
+| IV         | Lydian ♭7                | ♭7, T9, ♯11, and 13           | -                      |
+| VI-7♭5     | Locrian natural 9        | T9, ♯11, and ♭13              | -                      |
+| VII-7♭5    | Super Locrian            | T11 and ♭13                   | s♭2 and sº4           |
+
+### Composite Minor Harmony
+
+**Tonic Functional Group**
+| Function        |
+|---------------|
+| I-           |
+| I-6         |
+| I-7         |
+| I-(maj7)    |
+| ♭III        |
+| ♭IIImaj7    |
+| ♭III+       |
+| ♭III+(maj7) |
+| VI°         |
+| VI-7♭5      |
+
+**Subdominant Functional Group**
+| Function   |
+|-----------|
+| II°       |
+| II-7♭5   |
+| II-       |
+| II-7      |
+| IV-       |
+| IV-6      |
+| IV-7      |
+| ♭VI       |
+| ♭VImaj7   |
+| ♭VI     |
+| ♭VImaj7   |
+
+**Dominant Functional Group**
+| Function |
+|---------|
+| V       |
+| V7      |
+| VII°    |
+| VII°7   |
+| VII-7♭5 |
+
+**Modal Cadence Chord Group**
+| Function   | Note |
+|-----------|------|
+| V-        | -    |
+| V-7       | -    |
+| ♭VII      | -    |
+| ♭VII7 | *Care must be taken with ♭VII7 so as not to tonicize the relative major.* |
+
+### The Complete System of Minor Key Harmony
+**Tonic Function Group**
+
+| Chord       | Source    | Tensions         |
+|------------|----------|-----------------|
+| I-         | All      | Source dependent |
+| I-6        | Dorian   | 9, 11           |
+| I-6        | Melodic  | 9, 11, 7        |
+| I-7        | Aeolian  | 9, 11 (♭6)      |
+| I-7        | Dorian   | 9, 11, 13       |
+| I-(maj7)   | Harmonic | 9, 11 (♭6)      |
+| I-(maj7)   | Melodic  | 9, 11, 13       |
+| ♭III       | Aeolian  | 9, 13 (S4)      |
+| ♭III       | Dorian   | 9, ♯11, 13      |
+| ♭IIImaj7   | Aeolian  | 9, 13 (S4)      |
+| ♭IIImaj7   | Dorian   | 9, ♯11, 13      |
+| ♭III+(maj7)| Melodic  | 9, ♯11 (S6)     |
+| VI-7♭5     | Dorian   | 11, ♭13 (S♭2)   |
+| VI-7♭5     | Melodic  | 9, 11, ♭13      |
+
+**Subdominant Function Group**
+
+| Chord       | Source    | Tensions         |
+|------------|----------|-----------------|
+| II-7♭5     | Aeolian  | 11, ♭13 (S♭2)   |
+| II-7       | Melodic  | 11, 13 (S♭2)    |
+| II-7       | Dorian   | 11 (S♭2, S♭6)   |
+| IV-        | Aeolian  | 9, 11, 13       |
+| IV-6       | Aeolian  | 9, 11 (S♭7)     |
+| IV-7       | Aeolian  | 9, 11, 13       |
+| IV         | Dorian   | 9, 13 (S4)      |
+| IV6        | Dorian   | 9, 13 (S4, S♭7) |
+| IV7        | Dorian   | 9, 13 (S4)      |
+| IV7        | Melodic  | 9, ♯11, 13      |
+| ♭VI        | Aeolian  | 9, ♯11, 13      |
+| ♭VImaj7    | Aeolian  | 9, ♯11, 13      |
+
+**Modal Cadence Chords**
+
+| Chord      | Source    | Tensions         |
+|-----------|----------|-----------------|
+| ♭II       | Phrygian | 9, ♯11, 13      |
+| ♭IImaj7   | Phrygian | 9, ♯11, 13      |
+| V-        | Aeolian  | 11 (S♭2, S♭6)   |
+| V-7       | Aeolian  | 11 (S♭2, S♭6)   |
+| ♭VII      | Aeolian  | 9, 13 (S4)      |
+| ♭VII7     | Aeolian  | 9, 13 (S4)      |
+| ♭VII-7    | Phrygian | 11 (S♭2, S♭6)   |
+
+**Dominant Function**
+
+| Chord      | Source                     | Tensions                 |
+|-----------|---------------------------|-------------------------|
+| V7        | Aeolian (+leading tone)    | ♭9, ♯9, ♭13 (S4)       |
+| VII-7♭5   | Melodic                    | ♭13 (S♭2, Sº4)         |
+| VIIº      | Aeolian (+leading tone)    | 7, ♭13 (S♭2, Sº4)      |
+| VIIº7     | Aeolian (+leading tone)    | 7, ♭13 (S♭2, Sº4)      |
+
+**Secondary Dominants**
+
+| Chord      | Tensions                 |
+|-----------|-------------------------|
+| V7/V      | ♭9, ♯9, ♭13 (S4)       |
+| V7/IV     | ♭9, ♯9, ♭13 (S4)       |
+| V7/II     | ♭9, ♯9, ♭13 (S4)       |
+| V7/♭III   | ♭9, 13 (S4)            |
+| V7/♭VI    | ♭9, 13 (S4)            |
+
+**Substitute Dominants**
+
+| Chord      | Tensions        |
+|-----------|----------------|
+| subV/I    | 9, ♯11, 13     |
+| subV/IV   | 9, ♯11, 13     |
+| subV/V    | 9, ♯11, 13     |
+| subV/II   | 9, ♯11, 13     |
