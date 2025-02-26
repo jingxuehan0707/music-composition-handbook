@@ -1,0 +1,22 @@
+# Book settings
+# Learn more at https://jupyterbook.org/customize/config.html
+
+title: Handbook of Music Composition
+author: Harvey Jing
+logo: img/cover.png
+
+# Force re-execution of notebooks on each build.
+# See https://jupyterbook.org/content/execute.html
+execute:
+  execute_notebooks: auto
+
+# Define the name of the latex output file for PDF builds
+latex:
+  latex_documents:
+    targetname: book.tex
+
+# Information about where the book exists on the web
+repository:
+  url: https://github.com/jingxuehan0707/music-composition-handbook  # Online location of your book
+  path_to_book: docs  # Optional path to your book, relative to the repository root
+  branch: master  # Which branch of the repository should be used when creating links (optional)
