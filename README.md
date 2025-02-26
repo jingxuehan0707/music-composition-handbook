@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="img/cover.png" alt="Cover Image" width="50%">
-</p>
-
 # Table of Contents
 - [Level 01](Level-01.md)
   - [Major Key Secondary Dominant](Level-01.md#major-key-secondary-dominant)
